@@ -16,11 +16,7 @@ This project is a Streamlit-based application that predicts **space traffic dens
 2. Dependencies listed in `requirements.txt` (see below).
 
 ### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/space-traffic-prediction.git
-   cd space-traffic-prediction
-   ```
+1. Clone this repository.
 
 2. Install the required dependencies:
    ```bash
